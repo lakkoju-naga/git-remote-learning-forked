@@ -3,3 +3,4 @@ Learning basics.
 Git is fun.
 Feature branch has been added. 
 A conflicting change has been added.
+Change from teammate on feature1.
