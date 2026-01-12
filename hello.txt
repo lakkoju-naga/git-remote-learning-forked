@@ -4,3 +4,4 @@ Git is fun.
 Feature branch has been added. 
 A change in main branch. 
 A conflicting change has been added.
+Main branch new change for rebase.
