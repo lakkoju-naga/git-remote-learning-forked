@@ -8,3 +8,4 @@ Main branch new change for rebase.
 Rebase branch change.
 Change made directly on GitHub.
 Local change before pull conflict.
+Remote change causing conflict.
