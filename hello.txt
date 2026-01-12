@@ -6,3 +6,4 @@ A change in main branch.
 A conflicting change has been added.
 Main branch new change for rebase.
 Rebase branch change.
+Change made directly on GitHub.
